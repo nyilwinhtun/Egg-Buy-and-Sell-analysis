@@ -1,0 +1,15 @@
+{
+  "name": "ကြက်ဥဆိုင် စာရင်း",
+  "short_name": "ကြက်ဥဆိုင်",
+  "description": "မိသားစုကြက်ဥဆိုင်အတွက် အရောင်း၊ အဝင်၊ လက်ကျန်၊ အကြွေးနှင့် Cloud Sync",
+  "lang": "my",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8f5",
+  "theme_color": "#176b45",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}
+  ]
+}
